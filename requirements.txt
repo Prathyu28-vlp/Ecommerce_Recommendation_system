@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+scipy
+surprise
+tensorflow
+keras
+jupyter
+notebook
+ipykernel
